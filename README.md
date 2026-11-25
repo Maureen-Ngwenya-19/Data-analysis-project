@@ -1,2 +1,2 @@
-# Data analysis project
-cleaning data , data visuallization
+# South-Africa-Basic-Services-and-Service-Delivery-Protests-Analysis
+A Python-based data analysis project exploring household access to basic services (water, electricity, and sanitation) and service delivery protests across South Africa in 2023. The project uses Pandas, NumPy, Matplotlib, and Seaborn to clean, transform, integrate, analyse, and visualise datasets to identify trends, provincial differences, and potential relationships between service delivery and community protests. Developed as part of a CoGTA Junior Data Analyst case study.
